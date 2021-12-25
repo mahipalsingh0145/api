@@ -1,0 +1,1 @@
+https://phppot.com/php/php-restful-web-service/#a-simple-restful-base-class
